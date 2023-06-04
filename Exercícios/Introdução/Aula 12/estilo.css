@@ -6,4 +6,6 @@ h1{
 body{
     font-family: Arial, Helvetica, sans-serif;
     text-indent: 50px;
+    text-align: justify;
+    padding: 10px;
 }
