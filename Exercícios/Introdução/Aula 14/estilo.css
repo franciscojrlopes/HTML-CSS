@@ -28,14 +28,16 @@ body{
     background-color: aliceblue;
 }
 
-
-
-    
+   
 p {
     text-indent: 25px;
     text-align: justify;
     color: black;
     font-size: 25px;
+}
+
+p.ptitulo{
+    color: #074BD9;
 }
 
 body {
