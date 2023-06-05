@@ -1,0 +1,36 @@
+h1.primeiro{
+    color:#08CBFC;
+    text-align: center;
+}
+
+h1.segundo{
+    color: #078DD9;
+
+}
+
+h1.terceiro{
+    color:#0576F0 ;
+
+}
+
+h1.quarto{
+    color: #074BD9;
+
+}
+
+h1.quinto{
+    color:#3053FA ;
+
+}
+
+
+
+    
+p {
+    text-indent: 15px;
+    text-align: justify;
+}
+
+body {
+    padding: 10px;
+}
