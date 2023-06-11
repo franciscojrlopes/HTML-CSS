@@ -2,13 +2,14 @@
 
 body {
 
-        color: rgb(2, 24, 43);
-        background-color: beige;
+        color: #edf0f3;
+        background-color: #0c0276;
         text-align: justify;
+        padding: 50px;
 }
 
 h1 {
-
+        text-indent: 90px;
         font-family: Arial, Helvetica, sans-serif;
         text-align: center;
 }
@@ -16,4 +17,9 @@ h1 {
 h1 > p {
         text-align: justify;
         font-family: 'Times New Roman', Times, serif;
+}
+
+footer{
+        padding: 100px;
+        
 }
