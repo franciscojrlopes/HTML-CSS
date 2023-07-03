@@ -16,13 +16,18 @@
 
         <p>
             <label for="in2">Número 2:</label>
-            <input type="number" name="n2" id="in2" min="0" max="50" required>
+            <input type="number" name="n2" id="in2" min="0" max="50" required oninput="isoma.innerHTML = Number(in1.value + in2.value)">
         </p>
 
         <p>
             <input type="submit" value="Enviar">
             <input type="reset" value="Limpar">
 
+        </p>
+        <p>
+            <label for="isoma"> Soma:</label>
+            <output name="soma" id="isoma">0</output>
+            
         </p>
     </form>
 </body>
