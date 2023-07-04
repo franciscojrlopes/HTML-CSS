@@ -13,11 +13,14 @@
 
         <p>
             <label for="iano">Em que ano você nasceu:</label>
-            <input type="number" name="ano" id="iano" min="1900" max="2023">
+            <input type="number" name="ano" id="iano" min="1900" max="2023" oninput="calcIdade()">
 
         </p>
 
-        <p><label for="iidade">Sua idade é:</label></p>
+        <p><label for="iidade">Sua idade é:</label>
+        <output id="iidade">0</output>
+    
+        </p>
 
 
 
@@ -25,7 +28,11 @@
             <input type="submit" value="Enviar">
             <input type="reset" value="Limpar">
         </p>
-
+        
     </form>
+    <script>
+        function calcIdade(){}
+    </script>
+
 </body>
 </html>
