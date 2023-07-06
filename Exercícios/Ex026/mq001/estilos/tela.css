@@ -9,3 +9,9 @@ html{
     font-size: 1em;
 }
 
+header{
+    background-color: lightblue;
+}
+header h1{
+    text-align: center;
+}
