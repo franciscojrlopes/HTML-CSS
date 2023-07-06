@@ -14,6 +14,12 @@ html{
 menu{
     display: none;
 }
+
+article{
+    text-align: justify;
+    width: 100%;
+}
 article::after{ content: "Esse artigo foi impresso através do site: https://github.com/franciscojrlopes  ";  
 
 }
+
