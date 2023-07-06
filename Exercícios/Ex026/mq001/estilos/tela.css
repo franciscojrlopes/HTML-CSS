@@ -28,6 +28,7 @@ menu li{
     padding: 10px;
 }
 article {
+    text-align: justify;
     width: 600px;
     display: block;
     margin: auto;
