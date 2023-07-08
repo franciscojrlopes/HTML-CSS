@@ -11,14 +11,14 @@
 html, body{
     width: 100vw; /* largura da tela*/
     height: 100vh;
-    background-color:blue;
+    background-color: #233eff;
     background-size: contain;
     background-repeat: no-repeat; 
 
 }
 
 h1{ color:white;
-    text-shadow: 3px 3px 0px darkblue;
+    text-shadow: 3px 3px 0px #1526a7;
     padding: 10px;
 }
 
