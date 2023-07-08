@@ -12,7 +12,8 @@ html, body{
     width: 100vw; /* largura da tela*/
     height: 100vh;
     background-color:blue;
-    background-size: contain; 
+    background-size: contain;
+    background-repeat: no-repeat; 
 
 }
 
