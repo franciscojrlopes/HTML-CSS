@@ -1,7 +1,16 @@
 @charset "UTF-8";
 
+/* comfigurações gerais*/
+
 * { margin: 0px;
     padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
     
 }  /* configurações gerais padding= preenchimento*/ 
+
+html, body{
+    width: 100vw; /* largura da tela*/
+    height: 100vh;
+
+}
 
