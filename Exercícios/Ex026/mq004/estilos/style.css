@@ -16,3 +16,7 @@ body, html{
 body {
     background: black url(../imagens/back-phone.jpg) no-repeat;
 }
+
+main {
+    background-color: white;
+}
