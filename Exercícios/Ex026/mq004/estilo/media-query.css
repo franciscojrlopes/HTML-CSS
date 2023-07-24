@@ -17,15 +17,24 @@ Grandes telas: acima de 1200px.
 }
 
 body {
-    background-image: url(../imagens/back-print.jpg);
-}
+    background-image: url(../imagens/back-print.jpg);}
+
+    img#phone{display: none;}
+    img#tablet{display:none;}
+    img#print{ display: block;}
+    img#desktop{display: none;}
+    img#tv{display: none;}   
+
 
 main{
+    border: 2px solid black;
+
 
 }
 
-main h1{
-    
+main h1{ 
+    text-shadow: none;
+    color: black;
 }
 
 }
