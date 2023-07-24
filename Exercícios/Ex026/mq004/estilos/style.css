@@ -21,7 +21,9 @@ main {  background-color: rgba(255, 255, 255, 0.907);
         padding: 10px;}
 
 h1   {
-        text-align: center;}
+        text-align: center;
+        color: azure;
+        text-shadow: 2px 2px 2px black ;}
 
 img  { display: block;
         margin: auto;}
