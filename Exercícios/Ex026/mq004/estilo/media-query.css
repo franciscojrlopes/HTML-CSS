@@ -1,5 +1,15 @@
 @charset "UTF-8";
 /*Todas as demais mídias*/
+
+/* Typical Devaice Breakpoints - W3C
+------------------------------------
+Pequenas telas até 600px.
+Celular:de 600px até 750px.
+Tablet:de 768px até 992px.
+Desktop:de 992px até 1200px.
+Grandes telas: acima de 1200px. 
+
+*/
 @media print {
     
 }
