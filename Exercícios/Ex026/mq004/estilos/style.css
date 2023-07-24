@@ -24,9 +24,7 @@ main {
     border-radius: 10px;
     padding: 10px;
 }
-img#phone{
-    display: none;
-}
-img#tablet{
-    display: none;
-}
+img#phone{display: none;}
+img#tablet{display: none;}
+img#print{ display: none;}
+img#desktop{display: none;}
