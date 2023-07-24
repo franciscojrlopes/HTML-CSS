@@ -12,8 +12,19 @@ Grandes telas: acima de 1200px.
 */
 @media print { /*Impressão*/}
 
-@media screen and (min-width:768px) and (max-width:992px) {} /*Tablet*/
+@media screen and (min-width:768px) and (max-width:992px) {/*Tablet*/ body {
+    background-image: url(../imagens/back-tablet.jpg);
+}
+img#phone{display: none;}
+img#tablet{display: block;}
+img#print{ display: none;}
+img#desktop{display: none;}
+img#tv{display: none;}
 
-@media screen and (min-width:992px) and (max-width:1200px) {} /*Desktop*/
+} 
+
+@media screen and (min-width:992px) and (max-width:1200px) {/*Desktop*/
+
+} 
 
 @media screen and (min-width:1200px) {} /*Telas Grandes*/
