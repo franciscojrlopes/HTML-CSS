@@ -8,8 +8,8 @@
         padding: 0px;
         box-sizing: border-box;}
 
-body, html{ 
-        width: 100vw;
+ html{ 
+        
         height: 100vh;}
 
 body {
@@ -18,8 +18,8 @@ body {
         background-position: center center;}
 
 main {  background-color: rgba(255, 255, 255, 0.907);
-        width:80vw;
-        margin-top: 20px;
+        width:50vw;
+  
         margin: auto;
         border-radius: 10px;
         padding: 10px;}
