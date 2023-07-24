@@ -5,30 +5,28 @@
         font-size: 1.3em;
         margin: 0px;
         padding: 0px;
-        box-sizing: border-box;
-
-}
+        box-sizing: border-box;}
 
 body, html{ 
         width: 100vw;
-        height: 100vh;
-}
+        height: 100vh;}
 
 body {
-        background: black url(../imagens/back-phone.jpg) no-repeat;
-}
+        background: black url(../imagens/back-phone.jpg) no-repeat;}
 
 main {  background-color: rgba(255, 255, 255, 0.907);
         width:90%;
         margin: auto;
         border-radius: 10px;
-        padding: 10px;
-}
+        padding: 10px;}
 
 h1   {
-        text-align: center;
-}
-        img#phone{display: none;}
+        text-align: center;}
+
+img  { display: block;
+        margin: auto;}
+
+        img#phone{display: block;}
         img#tablet{display: none;}
         img#print{ display: none;}
         img#desktop{display: none;}
