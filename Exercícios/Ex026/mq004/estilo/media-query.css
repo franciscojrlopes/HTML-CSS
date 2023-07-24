@@ -25,7 +25,7 @@ img#tv{display: none;}
 
 @media screen and (min-width:992px) and (max-width:1200px) {/*Desktop*/
 body{
-    background-image: url(../imagens/icon-pc.png);
+    background-image: url(../imagens/back-pc.jpg);
 }
 img#phone{display: none;}
 img#tablet{display: none;}
