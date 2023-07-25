@@ -13,6 +13,8 @@ body, html{
 
 header {
     background-color: gray;
+    padding: 0px;
+    margin: 0px;
 }
 
 header, h1{
@@ -32,9 +34,10 @@ menu > ul > li > a {
 
     display: block;
     padding:10px;
+    margin: 0px;
     text-decoration:none;
     text-align: center;
-    background-color: gray;
+    background-color: rgb(87, 87, 87);
     color: white;
 
 }
