@@ -16,7 +16,8 @@ header {
 }
 
 header, h1{
-    
+    padding: 10px;
+    text-align: center;
 }
 
 menu{
