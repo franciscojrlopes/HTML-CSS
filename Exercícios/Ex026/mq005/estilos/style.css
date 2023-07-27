@@ -47,3 +47,6 @@ menu > ul > li > a:hover {
 
     background-color: rgba(228, 219, 219, 0.597);
 }
+main {
+    width: 90%vw;
+}
