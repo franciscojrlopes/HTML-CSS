@@ -13,11 +13,11 @@ body, html{
 
 header {
     background-color: gray;
-    padding: 0px;
-    margin: 0px;
+   
 }
 
 header, h1{
+    
     padding: 10px;
     text-align: center;
 }
@@ -39,5 +39,6 @@ menu > ul > li > a {
     text-align: center;
     background-color: rgb(87, 87, 87);
     color: white;
+    border-top: 2px solid black;
 
 }
