@@ -48,5 +48,17 @@ menu > ul > li > a:hover {
     background-color: rgba(228, 219, 219, 0.597);
 }
 main {
-    width: 90%vw;
+    width: 90vw;
+    background-color: white;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 20px;
+
+
 }
+
+article h2 {
+    padding: 20px;
+}
+
