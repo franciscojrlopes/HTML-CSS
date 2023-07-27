@@ -42,3 +42,8 @@ menu > ul > li > a {
     border-top: 2px solid rgba(128, 128, 128, 0.864);
 
 }
+
+menu > ul > li > a:hover {
+
+    background-color: rgba(228, 219, 219, 0.597);
+}
