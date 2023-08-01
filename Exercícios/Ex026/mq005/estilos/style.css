@@ -22,6 +22,14 @@ header, h1{
     text-align: center;
 }
 
+span#burger{
+    background-color:rgb(48, 48, 48);
+    color:white ;
+    display: block;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
 menu{
     display: block;
 }
