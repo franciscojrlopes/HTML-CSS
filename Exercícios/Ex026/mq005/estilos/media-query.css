@@ -5,6 +5,7 @@
         span#burger{
             display: none;
         }
+        menu{ display: block;}
 
 
 }    
