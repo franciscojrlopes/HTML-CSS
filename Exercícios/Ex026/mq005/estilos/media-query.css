@@ -1,4 +1,14 @@
 @charset "UTF-8";
+/* Typical Devaice Breakpoints - W3C
+------------------------------------
+Pequenas telas até 600px.
+Celular:de 600px até 750px.
+Tablet:de 768px até 992px.
+Desktop:de 992px até 1200px.
+Grandes telas: acima de 1200px. 
+
+*/
+
 
 @media screen and (min-width: 768px){
 
@@ -7,6 +17,11 @@
         }
         menu{ display: block;}
 
+        menu > ul > li{display: inline-block;
+            padding: 10px;
+    
+
+        }
 
 }    
 
