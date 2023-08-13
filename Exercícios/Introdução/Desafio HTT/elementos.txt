@@ -16,7 +16,7 @@ Na seção de condições, o título será "Condições" e teremos os textos "Pa
 
 Queremos criar uma separação horizontal entre a seção de condições e a de características.
 
-O título da seção características é "Características" e nela teremos três sub-seções, são elas: "Inteligência Artificial & Smart", "Imagem" e "Conexões".
+O título da seção características é "Características" e nela teremos três sub-seções, são elas: "Inteligência Artificial & Smart", "Imagem" e "".
 Em cada seção vamos colocar uma lista não ordenada com 4 itens em cada uma delas. Os itens das listas são esses (4 itens para cada sub-seção):
 
 Alexa
