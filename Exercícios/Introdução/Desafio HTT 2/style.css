@@ -5,4 +5,7 @@
     color: #112e61;
     font-family: "Montserrat", sans-serif;
     font-size: 14px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
 }
