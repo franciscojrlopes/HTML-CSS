@@ -1,5 +1,5 @@
 @charset "UTF-8";
-
+/* Cabeçalho */
 .Item-Lista-Cabeçalho a {
 
     color: #112e61;
@@ -9,3 +9,4 @@
     text-decoration: none;
     font-weight: 600;
 }
+/* Seção Hero  */
