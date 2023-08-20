@@ -1,4 +1,9 @@
 @charset "UTF-8";
+
+/* Seção Global  */
+
+
+
 /* Cabeçalho */
 .Item-Lista-Cabeçalho a {
 
@@ -82,3 +87,10 @@ h2 {
     font-size: 19px;
 }
 
+.diferenciais-h3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    color: #005e88;
+    font-weight: 600;
+
+}
