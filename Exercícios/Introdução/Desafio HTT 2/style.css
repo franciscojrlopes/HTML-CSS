@@ -10,3 +10,8 @@
     font-weight: 600;
 }
 /* Seção Hero  */
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-size: 35px;
+    color: #404040 ;
+}
