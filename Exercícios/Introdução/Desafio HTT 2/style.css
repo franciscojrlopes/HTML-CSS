@@ -52,13 +52,16 @@ h2 {
 }
 
 .gratuitos-h3 {
-
-
-
-
+    font-family: "Montserrat", sans-serif;
+    font-size: 23px;
+    font-weight: 700;
 }
 
 .gratuito-item-lista {
 
-    
+    font-family: "Montserrat", sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    text-decoration: none;
+
 }
