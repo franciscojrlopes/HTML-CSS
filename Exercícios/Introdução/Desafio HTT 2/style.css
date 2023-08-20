@@ -71,3 +71,14 @@ h2 {
     text-decoration: none;
 }
 
+/* Seção diferenciais */
+.diferencial-h2 {
+    font-size: 35px;
+    font-weight: 400;
+    }
+
+.diferenciais-p {
+    font-family: "Montserrat", sans-serif;
+    font-size: 19px;
+}
+
