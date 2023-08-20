@@ -42,8 +42,11 @@ h2 {
     color: ;
 
 }
+/* Poderia fazer > h2.span-gratuito span{
 
+}  */
 .span-gratuito {
+    font-weight: 600;
+    color: #7a40be;
 
-    
 }
