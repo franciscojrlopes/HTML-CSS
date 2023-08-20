@@ -13,5 +13,8 @@
 h1{
     font-family: "Montserrat", sans-serif;
     font-size: 35px;
-    color: #404040 ;
+    color: #404040;
+    line-height: 42px;
+    font-weight: 600;
 }
+
