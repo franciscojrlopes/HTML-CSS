@@ -109,5 +109,10 @@ h2 {
     font-weight: 700;
     text-decoration: none;
 }
-/* Seçao o que falam */
+/* Seção o que falam */
 
+.o-que-falam {
+    font-family: "Montserrat", sans-serif;
+    font-size: 35px;
+   
+}
