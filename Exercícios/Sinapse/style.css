@@ -9,11 +9,11 @@ html{
     font-size: 62.5%;
     background-color: white;}
 h1{
-    font-family:  ; 
+    font-family:  "Montserrat", sans-serif;
     font-size: 35px;
     text-decoration: none;
     color: #63347b;
-    padding: ;
+    padding: 20px;
 }
 h2{
 
@@ -31,7 +31,7 @@ h5{font-size: 1rem;
     color:#63347b;
     
 }
-a{
+a{  padding: 10px;
     text-decoration: none;
     font-size: 2rem;
     font-family: "Montserrat", sans-serif;
@@ -39,8 +39,10 @@ a{
     text-transform: capitalize;
 
 }
+img{
+    padding: 10px;
+}
 
-.footer{
-
-    
+.img-linkedin{
+   
 }
