@@ -49,6 +49,7 @@ a{  padding: 10px;
     font-size: 2rem;
     font-family: "Montserrat", sans-serif;
     color:#63347b;
+    display: block;
 
 
 }
@@ -59,6 +60,7 @@ img{
 .img-linkedin{
 
     display: block;
-    padding: 20px;
+    margin: 12px;
+    padding: 12px;
    
 }
