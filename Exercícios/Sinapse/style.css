@@ -5,15 +5,20 @@
     padding: 0;
 
 }
+
 html{
     font-size: 62.5%;
     background-color: white;}
+
 h1{
     font-family:  "Montserrat", sans-serif;
     font-size: 35px;
     text-decoration: none;
     color: #63347b;
     padding: 20px;
+    text-align:center;
+   
+    
 }
 h2{font-family:  "Montserrat", sans-serif;
     font-size: 30px;
@@ -69,7 +74,7 @@ img{
 .div-img{
     position: relative;
     right: 2rem;
-
+   
 
 }
 
@@ -78,4 +83,10 @@ img{
     right: 2rem;
     left: 5rem;
     margin-top: -7rem;
+}
+
+.img-s{
+    position:relative;
+  
+
 }
