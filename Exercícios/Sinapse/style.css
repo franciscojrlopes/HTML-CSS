@@ -90,3 +90,15 @@ img{
   
 
 }
+
+.footer{
+
+    padding: 10px;
+    text-decoration: none;
+    font-size: 2rem;
+    font-family: "Montserrat", sans-serif;
+    color:#0A66C2;
+    display: block;
+    font-weight: 700;
+  
+}
