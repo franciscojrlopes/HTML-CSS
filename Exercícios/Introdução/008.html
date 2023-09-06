@@ -21,7 +21,12 @@
             <img src="https://avatars.githubusercontent.com/u/124184818?v=4" alt="Avatar do Franisco">
         </div> 
 
-        
+        <form name="exemplo">
+            <label for="">Nome base: <input name="nbase" type="text" contextmenu="menu_nome"></label>
+            <menu type="context" id="menu_nome">
+            <command label="Escolher randomicamente um nome" onclick="document.forms.exemplo.elements.nbase.value = escolherNome()">
+                <command label="Preencher demais campos" onclick="preencherCampos(document.forms.exemplo.elements.nbase.value)"></menu>
+        </form>
 
 </body>
 </html>
