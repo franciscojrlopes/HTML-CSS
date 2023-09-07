@@ -1,9 +1,26 @@
 @charset "UTF-8";
 
+
+
+.data1{
+
+    padding: 10px;
+}
 .sec-01{
     padding: 10px;
     
 }
 .fpref{
+    
+    
+}
+.input{
+    padding: 5px;
+}
+
+.dt1{
+    font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
+
+    
 }
