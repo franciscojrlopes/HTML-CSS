@@ -2,7 +2,7 @@
 
 body{
     background-color: aqua;
-    
+
 }
 
 .data1{
@@ -19,6 +19,14 @@ body{
 }
 .input{
     padding: 5px;
+}
+
+summary{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    text-indent: 30px;
+    
 }
 
 .dt1{
