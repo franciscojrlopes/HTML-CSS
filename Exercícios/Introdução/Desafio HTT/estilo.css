@@ -39,9 +39,7 @@ h3{
     line-height: 1.2;
 }
 
-hr{
-    display: none;
-}
+
 
 p{  font-size: 1.8rem;
     line-height: 1.4;
@@ -54,6 +52,18 @@ figcaption{
 }
 
 a{
-
+    color: #c44105;
+    font-size: 2.4rem;
+    font-weight: 700;
+    text-decoration: double;
+    text-decoration-line: underline;
 }
 
+li{
+
+    
+}
+
+hr{
+    display: none;
+}
