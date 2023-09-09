@@ -26,6 +26,7 @@ figcaption{
 h1{
     font-size: 4.5rem;
     line-height: 1;
+    margin-bottom: 3.2rem;
 }
 
 h2{
@@ -48,6 +49,7 @@ h3{
 figcaption{
     font-size: 1.2;
     font-style: italic;
+    margin-bottom: 3.2rem;
 
 }
 
