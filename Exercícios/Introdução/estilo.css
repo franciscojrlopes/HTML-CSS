@@ -35,9 +35,13 @@ summary{
 
 .l1{
     font-family: Arial, Helvetica, sans-serif;
-    color: coral;
+    color: rgb(55, 25, 14);
     font-weight: 500;
 
+}
+
+.l2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .dt1{
