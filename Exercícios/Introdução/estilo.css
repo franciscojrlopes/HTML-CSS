@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-    background-color: aqua;
+    background-color: whitesmoke;
 
 }
 
@@ -35,13 +35,14 @@ summary{
 
 .l1{
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(55, 25, 14);
-    font-weight: 500;
-
+    color: rgb(241, 96, 43);
+    font-weight: 900;
 }
 
 .l2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+    font-weight: 900;
 }
 
 .dt1{
