@@ -24,16 +24,19 @@ figcaption{
 }
 
 h1{
-    font-size: 3.2rem;
-    line-height: 1.1;
+    font-size: 4.5rem;
+    line-height: 1;
 }
 
 h2{
+    font-size: 3.2rem;
+    line-height: 1.1;
 
 }
 
 h3{
-
+    font-size: 2.4rem;
+    line-height: 1.2;
 }
 
 hr{
