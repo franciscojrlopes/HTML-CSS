@@ -38,6 +38,7 @@ h2{
 h3{
     font-size: 2.4rem;
     line-height: 1.2;
+    margin-bottom: 1.8rem;
 }
 
 
@@ -68,6 +69,8 @@ ul{
 
 li{
     color: #035276;
+    margin-bottom: .6rem;
+
 
 }
 
