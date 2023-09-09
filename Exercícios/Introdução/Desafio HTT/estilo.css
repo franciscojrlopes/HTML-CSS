@@ -9,7 +9,7 @@ html{
 }
 body{
     font-family: "Montserrat", sans-serif;
-    font-size: 18px;
+    font-size: 1.8rem;
     line-height: 1.4;
 }
 
@@ -20,7 +20,7 @@ p,
 a,
 li,
 figcaption{
-
+    font-family: "Montserrat", sans-serif;
 }
 
 h1{
