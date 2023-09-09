@@ -45,6 +45,13 @@ summary{
     font-weight: 900;
 }
 
+.l3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkblue;
+    font-weight: 900;
+
+}
+
 .dt1{
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
