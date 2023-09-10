@@ -11,3 +11,26 @@ Logo, o gabarito do Desafio 2 para esse módulo é recriar toda a Home da Hashta
 Para as estruturas que a gente ainda não viu, pode simplesmente colocar um <p>VÍDEO</p> para retratar aquele elemento que nos próximos módulos a gente vai substituindo pelas estruturas reais.
 
 Divirta-se!
+
+
+
+O objetivo para o Desafio 2 nesse módulo (Aprofundando no CSS) é acrescentar os conceitos aprendidos nesse módulo no que construímos até agora no desafio.
+
+Lembre-se dos focos do módulo:
+
+Especificidade no CSS
+Espaçamentos
+Dimensões e Unidades
+Pseudo-Classes
+Pseudo-Elementos
+Seletor universal e Herança de Estilos
+Box Model
+Sombras
+Elementos Arredondados
+Tipos de Visualização
+Tipos de Posicionamento
+Background (Color, Image, Position, Size...)
+
+Vamos tentar incorporar tudo que aprendemos na Home da Hashtag, respeitando o que foi usado na página real.
+
+Divirta-se!
