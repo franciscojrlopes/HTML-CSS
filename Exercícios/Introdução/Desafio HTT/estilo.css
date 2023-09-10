@@ -103,4 +103,6 @@ figure{
     background-color: #035276;
     color: #fff;
     box-shadow: 0 0 1.6rem .4rem rgba(0,0,0,0.15);
+    padding: 2.4rem 3.2rem;
+    border-radius: 2rem;
 }
