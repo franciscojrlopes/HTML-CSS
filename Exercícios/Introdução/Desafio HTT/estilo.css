@@ -97,3 +97,8 @@ figure{
 
     margin-bottom: 3.2rem;
 }
+
+.condições{
+    display: inline-block;
+    background-color: #035276;
+}
