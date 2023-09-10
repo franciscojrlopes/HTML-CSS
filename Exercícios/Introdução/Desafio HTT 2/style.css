@@ -8,7 +8,17 @@
     box-sizing: border-box;
 }
 
+html{
+    font-size: 62.5%;
+}
 
+body{
+    font-size: "Montserrat", sans-serif;
+    color: #404040;
+    font-size: 1.6rem;
+    line-height: 1.4rem;
+
+}
 
 /* Cabeçalho */
 .Item-Lista-Cabeçalho a {
