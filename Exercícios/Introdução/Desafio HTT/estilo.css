@@ -30,7 +30,7 @@ h1{
 }
 h1::first-letter{
     font-size: 6.4rem;
-    
+
 }
 
 h2{
@@ -61,7 +61,7 @@ figcaption{
 
 }
 
-a{  display: inline-block;
+a:link, a:visited{  display: inline-block;
     color: #c44105;
     font-size: 2.4rem;
     font-weight: 700;
@@ -69,7 +69,10 @@ a{  display: inline-block;
     text-decoration-line: underline;
     margin-bottom: 2.4rem;
 }
+a:hover, a:active{
+    color: #0588c4;
 
+}
 ul{
     margin-bottom: 2.4rem;
     margin-left: 2.4rem;
