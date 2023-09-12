@@ -41,21 +41,23 @@
             main{
                 display: flex;
                 gap: 4rem;
-                flex-flow: row;
+                flex-flow: row wrap;
                 /* row-gap: 4rem;              column-gap: ; */
             }  
             /* "Flex container" */
 
             section:nth-child(1){
-                background-color: aqua;
+                background-color: aqua;     flex-basis: 50rem;
             }
 
             section:nth-last-child(2){
                 background-color: aquamarine;
+                flex-basis: 50rem;
             }
 
             section:nth-child(3){
                 background-color: rgb(205, 167, 240);
+                flex-basis: 50rem;
             }
 
 
