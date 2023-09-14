@@ -97,6 +97,7 @@ figure{
 
    display: flex;
    flex-flow: column;
+   align-items: center;
 }
 figure img{
     width: 30rem;
