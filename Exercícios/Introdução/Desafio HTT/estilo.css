@@ -95,7 +95,8 @@ section{
 
 figure{
 
-    margin-bottom: 3.2rem;
+   display: flex;
+   flex-flow: column;
 }
 figure img{
     width: 30rem;
