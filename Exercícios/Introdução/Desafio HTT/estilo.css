@@ -128,3 +128,8 @@ figure img{
     gap: 2rem;
 }
 
+.container-condições{
+    display: flex;
+    flex-flow: column;
+    gap: 2rem;
+}
