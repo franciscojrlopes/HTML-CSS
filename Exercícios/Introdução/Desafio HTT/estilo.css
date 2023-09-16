@@ -134,7 +134,7 @@ figure img{
     gap: 2rem;
 }
 
-.container-preço-condições{
+.container-preçocondições{
     display: flex;
     flex-flow: column;
     align-items: center;
