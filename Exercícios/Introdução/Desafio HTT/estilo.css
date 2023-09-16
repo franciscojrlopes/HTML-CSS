@@ -135,7 +135,10 @@ figure img{
 }
 
 .container-preço-condições{
-    
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+
 }
 
 
