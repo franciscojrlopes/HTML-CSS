@@ -18,5 +18,10 @@
 
   section{
     padding:6.1rem;
-    
+
+  }
+  .acordeão{
+    display: flex;
+    flex-flow:column;
+    gap:1.6rem;
   }
