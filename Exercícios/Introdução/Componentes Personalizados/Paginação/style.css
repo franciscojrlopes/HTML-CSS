@@ -20,5 +20,15 @@
   /* Paginação */
 
   .paginacao{
+    display: flex;
+    gap: 2.5rem;
     
+  }
+
+  .paginação-botão{
+    font-size: inherit;
+    font-weight: 700;
+    background-color: #077768;
+    color: white;
+    padding: .25rem;
   }
