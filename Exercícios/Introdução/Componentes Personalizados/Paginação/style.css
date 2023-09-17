@@ -26,7 +26,7 @@
   }
 
   .paginação-botão{
-    font-size: inherit;
+    font-size: 2.3rem;
     font-weight: 700;
     background-color: #077768;
     color: white;
@@ -35,7 +35,13 @@
     height: 4rem;
     border-radius: 50%;
     cursor: pointer;
-    border: 0;
+    border: 0;  }
 
-  
-  }
+.paginação-botão:hover{
+
+    color: #077768;
+    background-color: aliceblue;
+    border: 1px solid #077768 ;
+
+
+}
