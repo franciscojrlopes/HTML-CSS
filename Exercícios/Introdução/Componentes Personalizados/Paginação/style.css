@@ -36,22 +36,23 @@
   }
 
   .paginação-botão{
-    
+    font-size: 1.93rem;    
     /* padding: 1.02rem; */
     width: 4rem;
     height: 4rem;
     border-radius: 50%;
     cursor: pointer;
-    border: 0;  }
+    border: 0; 
 
-.paginação-botão:hover{
+    &:hover{
+        color: #077768;
+        background-color: aliceblue;
+        border: 1px solid #077768 ;
+    
 
-    color: #077768;
-    background-color: aliceblue;
-    border: 1px solid #077768 ;
+    }
+ }
 
-
-}
 
 .paginação-link{
     text-decoration: none;
