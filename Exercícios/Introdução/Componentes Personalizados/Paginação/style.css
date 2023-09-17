@@ -30,5 +30,12 @@
     font-weight: 700;
     background-color: #077768;
     color: white;
-    padding: 1.2rem;
+    padding: 1.02rem;
+    width: 4.rem;
+    height: 4.rem;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 0;
+
+  
   }
