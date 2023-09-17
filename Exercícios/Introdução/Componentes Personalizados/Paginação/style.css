@@ -20,8 +20,10 @@
   /* Paginação */
 
   .paginacao{
+    padding: 6.1rem;
     display: flex;
-    gap: 2.5rem;
+    gap: 3.12rem;
+    align-items: center;
     
   }
 
