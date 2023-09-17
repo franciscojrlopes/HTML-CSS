@@ -27,11 +27,16 @@
     
   }
 
-  .paginação-botão{
+  .paginação-botão,.paginação-link.pagin-ativa{
     font-size: 1.93rem;
     font-weight: 700;
     background-color: #077768;
     color: white;
+
+  }
+
+  .paginação-botão{
+    
     /* padding: 1.02rem; */
     width: 4rem;
     height: 4rem;
@@ -47,7 +52,21 @@
 
 
 }
+
+.paginação-link{
+   text-decoration: none;
+   color: inherit;
+
+}
 .paginação-link.pagin-ativa{
 
+    font-weight: 700;
+    background-color: #077768;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    cursor: pointer;
     
+    
+
 }
