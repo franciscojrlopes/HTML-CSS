@@ -12,8 +12,9 @@ html{
 }
 
 body{
-
-    font-size: "Montserrat", sans-serif;
+    background-color: azure;
+    font-family: "Montserrat" sans-serif;
+    font-size: 1.5rem;
 }
 
 
