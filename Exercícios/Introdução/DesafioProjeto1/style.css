@@ -20,6 +20,8 @@ body{
 
    background-image: url(Imagens/bg-3.jpg);
    height: 500px;
+   background-size: cover;
+   background-position: right center;
 
 
 }
