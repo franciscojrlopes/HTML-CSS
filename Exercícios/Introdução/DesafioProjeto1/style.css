@@ -18,7 +18,8 @@ body{
 }
 .hero{
 
-   background-image: url();
+   background-image: url(Imagens/bg-3.jpg);
+   height: 500px;
 
 
 }
