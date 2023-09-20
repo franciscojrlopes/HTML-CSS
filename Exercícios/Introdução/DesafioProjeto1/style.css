@@ -35,6 +35,11 @@ body{
 
 }
 
+.hero-content h1{
+
+    font-size: 56px;
+}
+
 .container{
 
     text-align: justify;
