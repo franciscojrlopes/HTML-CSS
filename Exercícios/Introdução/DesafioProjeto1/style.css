@@ -62,3 +62,7 @@ body{
     border-bottom: 2px solid;
 
 }
+
+h2{
+    text-transform: uppercase;
+}
