@@ -66,3 +66,9 @@ body{
 h2{
     text-transform: uppercase;
 }
+
+footer{
+    background-color:rgba(163, 222, 245, 0.768) ;
+   padding: 18px;
+   text-transform: uppercase;
+}
