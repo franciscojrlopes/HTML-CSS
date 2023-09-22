@@ -38,6 +38,7 @@ body{
 .hero-content h1{
 
     font-size: 56px;
+    text-shadow: 5px 5px 5px red;
 }
 
 .container{
