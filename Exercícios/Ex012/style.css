@@ -7,7 +7,7 @@
 
 html{
     background-color: rgb(185, 211, 249);
-    
+
 
 }
 
@@ -22,8 +22,9 @@ h1{
 
 }
 
-p{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+p{ font-family: "Monserrat", sans-serif;
     padding: 25px;
+    font-weight: 700;
 
 
 }
