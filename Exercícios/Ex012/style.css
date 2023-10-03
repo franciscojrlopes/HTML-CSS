@@ -42,7 +42,9 @@ p{ font-family: "Monserrat", sans-serif;
     footer{
 
         text-align: justify;
-        font-size: 10px;
-    
+        font-size: 15px;
+        font-family: "Monserrat", sans-serif;
+        padding: 25px;
+        font-weight: 700;
 
     }
