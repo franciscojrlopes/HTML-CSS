@@ -5,9 +5,11 @@
     margin: 0;
 }
 
-.h1{
+ .P1{
     text-transform: uppercase;
+    text-align: center;
 }
+
 
 html{
     background-color: rgb(185, 211, 249);
@@ -43,6 +45,7 @@ p{ font-family: "Monserrat", sans-serif;
     section{
         padding: 10px;
         text-align: center;
+        text-transform: uppercase;
     }
 
     footer{
