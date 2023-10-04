@@ -2,59 +2,41 @@
 
 *{
     padding: 0;
-    margin: 0;
-}
+    margin: 0;}
 
  .P1{
     text-transform: uppercase;
-    text-align: center;
-}
+    text-align: center;}
 
 
 html{
-    background-color: rgb(185, 211, 249);
+    background-color: rgb(185, 211, 249);}
 
-
-}
-
-body{
-    
-
-
-}
+body{}
 
 h1{
     font-family: Arial, Helvetica, sans-serif;
     padding: 15px;
-    font-style: italic;
+    font-style: italic;}
 
-}
-
-p{ font-family: "Monserrat", sans-serif;
+p{  font-family: "Monserrat", sans-serif;
     padding: 25px;
     font-weight: 700;
     text-align: justify;
-    text-indent: 25px;
+    text-indent: 25px;}
 
-}
 .a1{
-    display: block;
-    
-}
+        display: block;}
 
-    section{
+section{
         padding: 10px;
         text-align: center;
-        text-transform: uppercase;
-    }
+        text-transform: uppercase;}
 
-    footer{
-
+footer{
         text-align: justify;
         text-indent: 25px;
         font-size: 15px;
         font-family: "Monserrat", sans-serif;
         padding: 25px;
-        font-weight: 700;
-
-    }
+        font-weight: 700;}
