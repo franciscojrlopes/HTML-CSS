@@ -5,6 +5,10 @@
     margin: 0;
 }
 
+.h1{
+    text-transform: uppercase;
+}
+
 html{
     background-color: rgb(185, 211, 249);
 
