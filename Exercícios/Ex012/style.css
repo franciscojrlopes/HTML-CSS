@@ -27,6 +27,7 @@ h1{
 p{ font-family: "Monserrat", sans-serif;
     padding: 25px;
     font-weight: 700;
+    text-align: justify;
 
 
 }
@@ -36,7 +37,7 @@ p{ font-family: "Monserrat", sans-serif;
 }
 
     section{
-
+        padding: 10px;
         text-align: center;
     }
 
