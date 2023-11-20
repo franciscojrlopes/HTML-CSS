@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+@media all and (max-width:754.4px) {}
+
 *{
     margin: 0;
     padding: 0;
@@ -86,10 +88,9 @@ img{
 }
 
 .img-s{
-    position:relative;
-  
+    position:relative;}
 
-}
+
 
 .footer{
 
