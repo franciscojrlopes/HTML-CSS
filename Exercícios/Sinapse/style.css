@@ -1,6 +1,9 @@
 @charset "UTF-8";
 
-@media all and (max-width:754.4px) {}
+@media all and (max-width:1519px) {
+
+
+}
 
 *{
     margin: 0;
@@ -63,7 +66,7 @@ h5{font-size: 15px;
 
 }
 img{
-    padding: 10px;
+    padding:.1px;
 }
 
 .img-linkedin{
