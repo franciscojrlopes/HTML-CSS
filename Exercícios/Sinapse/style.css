@@ -11,6 +11,10 @@
 
 }
 
+body{
+    background-color: rgb(238, 225, 252);
+}
+
 html{
     font-size: 62.5%;
     background-color: white;}
