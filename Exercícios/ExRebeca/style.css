@@ -1,3 +1,62 @@
 @charset "UTF-8";
 
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
 
+}
+
+html{
+
+    font-size: 62.5%;
+}
+
+body{
+    background-color: white;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{ font-size: 3.5rem;
+    text-align: left;
+    background-color: #7B002C;
+    color: #F3BF08;
+    margin: 0px;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+
+
+}
+
+h2 {
+    font-size: 2rem;
+    text-align: center;
+    padding: 50px;
+}
+
+iframe{
+    margin: auto;
+    display: block;
+    width: 600px;
+    
+}
+
+p{  font-size: 1.9rem;
+    text-indent: 60px;
+    font-style: italic;
+    text-align: justify;
+}
+
+footer {
+font-size: 1.9rem;
+background-color:#F3BF08;
+color: white;
+text-align: center;
+padding: 50px;
+bottom: 20px;}
+
+a{
+color: aliceblue;
+}
