@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 *{  margin:0px;
-    padding:10px;
+    padding:0px;
     box-sizing: border-box;}
 
 html{font-size: 62.5%;}
@@ -31,7 +31,10 @@ iframe{ margin: auto;
 p{  font-size: 1.9rem;
     text-indent: 60px;                          
     font-style: italic;
-    text-align: justify;}
+    text-align: justify;
+    margin: 1px;
+    padding: 1px;
+}
 
 footer {
    font-size: 1.9rem;
