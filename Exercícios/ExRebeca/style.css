@@ -4,7 +4,9 @@
     padding:0px;
     box-sizing: border-box;}
 
-html{font-size: 62.5%;}
+html{   font-size: 62.5%;
+        font-family: 'Fira Mono', Menlo, monospace;
+    }
 
 body{
     background-color: white;
