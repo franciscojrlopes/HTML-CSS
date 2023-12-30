@@ -42,7 +42,7 @@ p{  font-size: 1.9rem;
 
 img{
     /* filter: grayscale(100%); */
-;
+    background: #FFFFFF url("Imagens/WhatsApp\ Image\ 2023-12-23\ at\ 20.09.32.jpeg") no-repeat right top fixed;
     display: block;
     margin-left: auto;
     margin-right: auto;
