@@ -16,6 +16,7 @@ h1{ font-size: 4.5rem;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: left;
     background-color:#DBE8EF ;
+    background: #DBE8EF url("Imagens/WhatsApp\ Image\ 2023-12-23\ at\ 20.09.32.jpeg") no-repeat right top fixed;
     color: #241c01;
     margin: 0px;
     padding: 50px;
@@ -42,7 +43,6 @@ p{  font-size: 1.9rem;
 
 img{
     /* filter: grayscale(100%); */
-    background: #FFFFFF url("Imagens/WhatsApp\ Image\ 2023-12-23\ at\ 20.09.32.jpeg") no-repeat right top fixed;
     display: block;
     margin-left: auto;
     margin-right: auto;
