@@ -27,6 +27,12 @@ h2{
     text-align: center;
     padding: 20px;
 }
+
+.resumo{
+    text-align: justify;
+    padding: 10px;
+    
+}
 .reservados{
     text-align: center;
     padding: 30px;
