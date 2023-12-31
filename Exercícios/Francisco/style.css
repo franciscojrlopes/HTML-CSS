@@ -22,8 +22,8 @@ body{
 h1{
     text-align: center;
     font-family:  Roboto;
- 
-    font-size: 1,9rem;
+    font-weight: bolder;
+    font-size: 2,9rem;
     padding: 50px;
 }
 
