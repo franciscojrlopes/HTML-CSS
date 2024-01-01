@@ -32,6 +32,7 @@ img{
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
+    border-radius: 110px;
 }
 
 h2{
@@ -54,7 +55,7 @@ h2{
     font-size: xx-large;
 }
 
-.instagram{
+/* .instagram{
     
     position: relative;
     text-align: center;
@@ -65,7 +66,7 @@ h2{
     position: relative;
     text-align: center;
     padding: 20px;
-}
+} */
 .reservados{
     text-align: center;
     padding: 30px;
