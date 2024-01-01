@@ -55,18 +55,20 @@ h2{
     font-size: xx-large;
 }
 
-/* .instagram{
+.instagram{
     
-    position: relative;
+   
     text-align: center;
+    padding: 20px;
 }
 
 .linkedin{
    
-    position: relative;
+   
     text-align: center;
     padding: 20px;
-} */
+
+}
 .reservados{
     text-align: center;
     padding: 30px;
