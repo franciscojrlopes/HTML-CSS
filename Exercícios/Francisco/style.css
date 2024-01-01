@@ -62,6 +62,9 @@ h2{
 
 .linkedin{
     display: block;
+    position: relative;
+    text-align: center;
+    padding: 20px;
 }
 .reservados{
     text-align: center;
