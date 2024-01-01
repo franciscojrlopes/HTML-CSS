@@ -53,6 +53,16 @@ h2{
     text-align: center;
     font-size: xx-large;
 }
+
+.instagram{
+    display: block;
+    position: relative;
+    text-align: center;
+}
+
+.linkedin{
+    display: block;
+}
 .reservados{
     text-align: center;
     padding: 30px;
