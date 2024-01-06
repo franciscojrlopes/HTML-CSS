@@ -58,18 +58,24 @@ h2{
 }
 
 .instagram{
-    
- 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 110px;
+    border-bottom: 10pc;
+    text-align: center;
    
-    padding: 350px;
 }
 
 .linkedin{
-   
-   
-    
-    padding: 350px;
-
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 110px;
+    border-bottom: 10pc;
+    text-align: center;
 }
 .reservados{
     text-align: center;
