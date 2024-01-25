@@ -1,13 +1,23 @@
 @charset "UTF-8";
 
 .P1{
+    color: #4E1B1E;   
+    /* var(--corvid-color,rgb(var(--txt,var(--color_15)))) */
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-align:left;}
 
-}
 .P2{
+    color: #4E1B1E; 
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 .P3{
-
+    color: #4E1B1E; 
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 40px;
 }
 .P4{
 
@@ -16,5 +26,5 @@
 
 }
 .P6{
-    
+
 }
