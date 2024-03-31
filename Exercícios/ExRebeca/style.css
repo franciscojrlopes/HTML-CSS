@@ -27,7 +27,8 @@ h2 {
     font-family:  Georgia, Times, 'Times New Roman', serif;
     font-size: 3rem;
     text-align: center;
-    padding: 50px;}
+    padding: 50px;
+background-color: rgb(44, 123, 233);}
 
 iframe{ margin: auto;
         display: block;
