@@ -10,7 +10,4 @@ h1{ font-size: 42px;
 }
 
 img {
-    background-color: navy;
-    border-block-color: navy;
-    background-image:none;
-}
+    background-clip: content-box;}
