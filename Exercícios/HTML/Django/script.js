@@ -1,3 +1,3 @@
 function gritar() {
-    alert('Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhh!')
+    alert('Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhh!');
 }
