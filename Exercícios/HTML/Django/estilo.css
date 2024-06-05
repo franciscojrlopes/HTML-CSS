@@ -1,8 +1,16 @@
+@charset "UTF-8";
 body {
-
+    background-color: navy;
+    color: #fff;
 
 }
 
-h1{
-    
+h1{ font-size: 42px;
+
+}
+
+img {
+    background-color: navy;
+    border-block-color: navy;
+    background-image:none;
 }
